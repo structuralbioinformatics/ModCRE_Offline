@@ -1,0 +1,14 @@
+GO:0071946	cis-acting DNA replication termination
+GO:0060380	regulation of single-stranded telomeric DNA binding
+GO:0060381	positive regulation of single-stranded telomeric DNA binding
+GO:0009300	antisense RNA transcription
+GO:0042868	antisense RNA metabolic process
+GO:0060195	negative regulation of antisense RNA transcription
+GO:0060194	regulation of antisense RNA transcription
+GO:0060196	positive regulation of antisense RNA transcription
+GO:0016233	telomere capping
+GO:0099009	viral genome circularization
+GO:0140896	cGAS/STING signaling pathway
+GO:0071573	shelterin complex assembly
+GO:0099045	viral extrusion
+

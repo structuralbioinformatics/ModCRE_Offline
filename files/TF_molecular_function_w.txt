@@ -1,0 +1,99 @@
+GO:0003677 molecular_function F DNA binding
+GO:0050692 molecular_function F DNA binding domain binding
+GO:0003690 molecular_function F double-stranded DNA binding
+GO:0140297 molecular_function T DNA-binding transcription factor binding
+GO:0099077 molecular_function F histone-dependent DNA binding
+GO:0141094 molecular_function T DNA loop anchor binding
+GO:0140431 molecular_function F DNA-(abasic site) binding
+GO:0032448 molecular_function F DNA hairpin binding
+GO:0043565 molecular_function T sequence-specific DNA binding
+GO:0008301 molecular_function F DNA binding, bending
+GO:0003691 molecular_function F double-stranded telomeric DNA binding
+GO:0000400 molecular_function F four-way junction DNA binding
+GO:0061849 molecular_function F telomeric G-quadruplex DNA binding
+GO:0010385 molecular_function F double-stranded methylated DNA binding
+GO:0044374 molecular_function T sequence-specific DNA binding, bending
+GO:0003692 molecular_function F left-handed Z-DNA binding
+GO:0003700 molecular_function T DNA-binding transcription factor activity
+GO:0070338 molecular_function F 5'-flap-structured DNA binding
+GO:0070337 molecular_function F 3'-flap-structured DNA binding
+GO:0001217 molecular_function T DNA-binding transcription repressor activity
+GO:0001216 molecular_function T DNA-binding transcription activator activity
+GO:0071443 molecular_function F tDNA binding
+GO:0000497 molecular_function F DNA template activity
+GO:0000182 molecular_function F rDNA binding
+GO:1990837 molecular_function T sequence-specific double-stranded DNA binding
+GO:0000402 molecular_function F crossed form four-way junction DNA binding
+GO:0000401 molecular_function F open form four-way junction DNA binding
+GO:0003680 molecular_function T minor groove of adenine-thymine-rich DNA binding
+GO:0061776 molecular_function F topological DNA co-entrapment activity
+GO:1905773 molecular_function F 8-hydroxy-2'-deoxyguanosine DNA binding
+GO:0000987 molecular_function T cis-regulatory region sequence-specific DNA binding
+GO:0001073 molecular_function F transcription antitermination factor activity, DNA binding
+GO:0001046 molecular_function T core promoter sequence-specific DNA binding
+GO:0001018 molecular_function T mitochondrial promoter sequence-specific DNA binding
+GO:0001147 molecular_function F transcription termination site sequence-specific DNA binding
+GO:0000406 molecular_function F double-strand/single-strand DNA junction binding
+GO:0010844 molecular_function F recombination hotspot binding
+GO:0061629 molecular_function F RNA polymerase II-specific DNA-binding transcription factor binding
+GO:0000977 molecular_function F RNA polymerase II transcription regulatory region sequence-specific DNA binding
+GO:0001016 molecular_function F RNA polymerase III transcription regulatory region sequence-specific DNA binding
+GO:0001163 molecular_function F RNA polymerase I transcription regulatory region sequence-specific DNA binding
+GO:0001161 molecular_function F intronic transcription regulatory region sequence-specific DNA binding
+GO:0042393 molecular_function F histone binding
+GO:0140587 molecular_function F chromatin loop anchoring activity
+GO:1990841 molecular_function T promoter-specific chromatin binding
+GO:0000978 molecular_function F RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0001019 molecular_function F plastid promoter transcription regulatory region sequence-specific DNA binding
+GO:0090655 molecular_function F double-stranded/single-stranded junction telomeric DNA binding
+GO:0000992 molecular_function F RNA polymerase III cis-regulatory region sequence-specific DNA binding
+GO:0000981 molecular_function F DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0000979 molecular_function F RNA polymerase II core promoter sequence-specific DNA binding
+GO:0106250 molecular_function F DNA-binding transcription repressor activity, RNA polymerase III-specific
+GO:0001039 molecular_function F RNA polymerase III hybrid type promoter sequence-specific DNA binding
+GO:0001006 molecular_function F RNA polymerase III type 3 promoter sequence-specific DNA binding
+GO:0001003 molecular_function F RNA polymerase III type 2 promoter sequence-specific DNA binding
+GO:0001002 molecular_function F RNA polymerase III type 1 promoter sequence-specific DNA binding
+GO:0001228 molecular_function T DNA-binding transcription activator activity, RNA polymerase II-specific
+GO:0001227 molecular_function T DNA-binding transcription repressor activity, RNA polymerase II-specific
+GO:0001165 molecular_function T RNA polymerase I cis-regulatory region sequence-specific DNA binding
+GO:0001164 molecular_function T RNA polymerase I core promoter sequence-specific DNA binding
+GO:0062241 molecular_function F double strand break-nuclear membrane anchor activity
+GO:0043035 molecular_function T chromatin insulator sequence binding
+GO:0061821 molecular_function F telomeric D-loop binding
+GO:0001067 molecular_function T transcription regulatory region nucleic acid binding
+GO:0000976 molecular_function T transcription cis-regulatory region binding
+GO:0042809 molecular_function T nuclear vitamin D receptor binding
+GO:0016922 molecular_function T nuclear receptor binding
+GO:0071820 molecular_function T N-box binding
+GO:0097162 molecular_function T MADS box domain binding
+GO:0001162 molecular_function F RNA polymerase II intronic transcription regulatory region sequence-specific DNA binding
+GO:0140416 molecular_function T transcription regulator inhibitor activity
+GO:0036002 molecular_function F pre-mRNA binding
+GO:0070974 molecular_function T POU domain binding
+GO:0070888 molecular_function T E-box binding
+GO:0001010 molecular_function T RNA polymerase II sequence-specific DNA-binding transcription factor recruiting activity
+GO:0044377 molecular_function T RNA polymerase II cis-regulatory region sequence-specific DNA binding, bending
+GO:0035501 molecular_function T MH1 domain binding
+GO:0140728 molecular_function T GC-box binding
+GO:0097726 molecular_function T LEM domain binding
+GO:0043398 molecular_function T HLH domain binding
+GO:0071837 molecular_function T HMG box domain binding
+GO:0001223 molecular_function T transcription coactivator binding
+GO:0001222 molecular_function T transcription corepressor binding
+GO:0001221 molecular_function T transcription coregulator binding
+GO:0141097 molecular_function T ligand-activated transcription activator activity
+GO:0141096 molecular_function T ligand-activated transcription repressor activity
+GO:0098531 molecular_function T ligand-activated transcription factor activity
+GO:0034246 molecular_function T mitochondrial transcription factor activity
+GO:0003713 molecular_function T transcription coactivator activity
+GO:0003712 molecular_function T transcription coregulator activity
+GO:0003714 molecular_function T transcription corepressor activity
+GO:0004879 molecular_function T nuclear receptor activity
+GO:0030374 molecular_function T nuclear receptor coactivator activity
+GO:0140536 molecular_function T nuclear receptor corepressor activity
+GO:0000995 molecular_function F RNA polymerase III general transcription initiation factor activity
+GO:0016987 molecular_function F sigma factor activity
+GO:0016251 molecular_function F RNA polymerase II general transcription initiation factor activity
+GO:0001139 molecular_function F RNA polymerase II complex recruiting activity
+

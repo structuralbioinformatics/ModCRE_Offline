@@ -1,0 +1,51 @@
+GO:0051101	regulation of DNA binding
+GO:1904742	regulation of telomeric DNA binding
+GO:1905496	regulation of triplex DNA binding
+GO:0043392	negative regulation of DNA binding
+GO:0043388	positive regulation of DNA binding
+GO:1902595	regulation of DNA replication origin binding
+GO:0071946	cis-acting DNA replication termination
+GO:0060380	regulation of single-stranded telomeric DNA binding
+GO:1904744	positive regulation of telomeric DNA binding
+GO:1904743	negative regulation of telomeric DNA binding
+GO:1905767	regulation of double-stranded telomeric DNA binding
+GO:1905495	positive regulation of G-quadruplex DNA binding
+GO:1905494	negative regulation of G-quadruplex DNA binding
+GO:1905493	regulation of G-quadruplex DNA binding
+GO:1905498	positive regulation of triplex DNA binding
+GO:1905497	negative regulation of triplex DNA binding
+GO:1902596	negative regulation of DNA replication origin binding
+GO:1902597	positive regulation of DNA replication origin binding
+GO:2000677	regulation of transcription regulatory region DNA binding
+GO:0051090	regulation of DNA-binding transcription factor activity
+GO:0071163	DNA replication preinitiation complex assembly
+GO:0060381	positive regulation of single-stranded telomeric DNA binding
+GO:1905769	positive regulation of double-stranded telomeric DNA binding
+GO:1905768	negative regulation of double-stranded telomeric DNA binding
+GO:0043433	negative regulation of DNA-binding transcription factor activity
+GO:2000679	positive regulation of transcription regulatory region DNA binding
+GO:2000678	negative regulation of transcription regulatory region DNA binding
+GO:0051091	positive regulation of DNA-binding transcription factor activity
+GO:1903642	regulation of recombination hotspot binding
+GO:1903025	regulation of RNA polymerase II regulatory region sequence-specific DNA binding
+GO:1901839	regulation of RNA polymerase I regulatory region sequence-specific DNA binding
+GO:1905636	positive regulation of RNA polymerase II regulatory region sequence-specific DNA binding
+GO:1903026	negative regulation of RNA polymerase II regulatory region sequence-specific DNA binding
+GO:1901840	negative regulation of RNA polymerase I regulatory region sequence-specific DNA binding
+GO:0035561	regulation of chromatin binding
+GO:1903643	positive regulation of recombination hotspot binding
+GO:0035562	negative regulation of chromatin binding
+GO:0035563	positive regulation of chromatin binding
+GO:0009300	antisense RNA transcription
+GO:0010944	negative regulation of transcription by competitive promoter binding
+GO:0042868	antisense RNA metabolic process
+GO:0060195	negative regulation of antisense RNA transcription
+GO:0060194	regulation of antisense RNA transcription
+GO:0060196	positive regulation of antisense RNA transcription
+GO:0016233	telomere capping
+GO:0010620	negative regulation of transcription by transcription factor catabolism
+GO:0099009	viral genome circularization
+GO:0140896	cGAS/STING signaling pathway
+GO:0071573	shelterin complex assembly
+GO:0099045	viral extrusion
+

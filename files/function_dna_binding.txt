@@ -1,0 +1,167 @@
+GO:0003677	DNA binding
+GO:0003684	damaged DNA binding
+GO:0050692	DNA binding domain binding
+GO:0044547	DNA topoisomerase binding
+GO:0003690	double-stranded DNA binding
+GO:0003697	single-stranded DNA binding
+GO:0070182	DNA polymerase binding
+GO:0003688	DNA replication origin binding
+GO:0019237	centromeric DNA binding
+GO:0030983	mismatched DNA binding
+GO:0042162	telomeric DNA binding
+GO:0071667	DNA/RNA hybrid binding
+GO:0003681	bent DNA binding
+GO:0032131	alkylated DNA binding
+GO:0140297	DNA-binding transcription factor binding
+GO:0099077	histone-dependent DNA binding
+GO:0031492	nucleosomal DNA binding
+GO:0031490	chromatin DNA binding
+GO:0062037	D-loop DNA binding
+GO:0141094	DNA loop anchor binding
+GO:0140431	DNA-(abasic site) binding
+GO:0032448	DNA hairpin binding
+GO:0032357	oxidized purine DNA binding
+GO:0032358	oxidized pyrimidine DNA binding
+GO:0032356	oxidized DNA binding
+GO:0044729	hemi-methylated DNA-binding
+GO:0003696	satellite DNA binding
+GO:0043565	sequence-specific DNA binding
+GO:0097100	supercoiled DNA binding
+GO:0045142	triplex DNA binding
+GO:0045027	DNA end binding
+GO:0070336	flap-structured DNA binding
+GO:0032132	O6-alkylguanine-DNA binding
+GO:0008301	DNA binding, bending
+GO:0051880	G-quadruplex DNA binding
+GO:0000405	bubble DNA binding
+GO:0000404	heteroduplex DNA loop binding
+GO:0000403	Y-form DNA binding
+GO:0000217	DNA secondary structure binding
+GO:0032135	DNA insertion or deletion binding
+GO:0003691	double-stranded telomeric DNA binding
+GO:0043047	single-stranded telomeric DNA binding
+GO:0000400	four-way junction DNA binding
+GO:0061849	telomeric G-quadruplex DNA binding
+GO:0010385	double-stranded methylated DNA binding
+GO:0044374	sequence-specific DNA binding, bending
+GO:0003692	left-handed Z-DNA binding
+GO:0003700	DNA-binding transcription factor activity
+GO:0070338	5'-flap-structured DNA binding
+GO:0070337	3'-flap-structured DNA binding
+GO:0001217	DNA-binding transcription repressor activity
+GO:0001216	DNA-binding transcription activator activity
+GO:0071443	tDNA binding
+GO:1990829	C-rich single-stranded DNA binding
+GO:1990955	G-rich single-stranded DNA binding
+GO:0000497	DNA template activity
+GO:0000182	rDNA binding
+GO:1990837	sequence-specific double-stranded DNA binding
+GO:0061730	C-rich strand telomeric DNA binding
+GO:0098505	G-rich strand telomeric DNA binding
+GO:0098847	sequence-specific single stranded DNA binding
+GO:1990165	single-strand break-containing DNA binding
+GO:0000402	crossed form four-way junction DNA binding
+GO:0000401	open form four-way junction DNA binding
+GO:0003680	minor groove of adenine-thymine-rich DNA binding
+GO:0061776	topological DNA co-entrapment activity
+GO:1905773	8-hydroxy-2'-deoxyguanosine DNA binding
+GO:0044378	non-sequence-specific DNA binding, bending
+GO:0000987	cis-regulatory region sequence-specific DNA binding
+GO:0001073	transcription antitermination factor activity, DNA binding
+GO:0001046	core promoter sequence-specific DNA binding
+GO:0001018	mitochondrial promoter sequence-specific DNA binding
+GO:0001147	transcription termination site sequence-specific DNA binding
+GO:0000406	double-strand/single-strand DNA junction binding
+GO:0010844	recombination hotspot binding
+GO:0061629	RNA polymerase II-specific DNA-binding transcription factor binding
+GO:0031491	nucleosome binding
+GO:0035939	microsatellite binding
+GO:0003682	chromatin binding
+GO:0003729	mRNA binding
+GO:0001069	regulatory region RNA binding
+GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding
+GO:0001016	RNA polymerase III transcription regulatory region sequence-specific DNA binding
+GO:0001163	RNA polymerase I transcription regulatory region sequence-specific DNA binding
+GO:0001161	intronic transcription regulatory region sequence-specific DNA binding
+GO:0140083	ATP-dependent protein-DNA unloader activity
+GO:0042393	histone binding
+GO:0140587	chromatin loop anchoring activity
+GO:0035485	adenine/guanine mispair binding
+GO:0035484	adenine/adenine mispair binding
+GO:0035489	guanine/guanine mispair binding
+GO:0035488	cytosine/thymine mispair binding
+GO:0035487	thymine/thymine mispair binding
+GO:0035486	cytosine/cytosine mispair binding
+GO:1990841	promoter-specific chromatin binding
+GO:1990470	piRNA cluster binding
+GO:0032137	guanine/thymine mispair binding
+GO:0032136	adenine/cytosine mispair binding
+GO:0000978	RNA polymerase II cis-regulatory region sequence-specific DNA binding
+GO:0001019	plastid promoter transcription regulatory region sequence-specific DNA binding
+GO:0090655	double-stranded/single-stranded junction telomeric DNA binding
+GO:0000992	RNA polymerase III cis-regulatory region sequence-specific DNA binding
+GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific
+GO:0000979	RNA polymerase II core promoter sequence-specific DNA binding
+GO:0106250	DNA-binding transcription repressor activity, RNA polymerase III-specific
+GO:0001039	RNA polymerase III hybrid type promoter sequence-specific DNA binding
+GO:0001006	RNA polymerase III type 3 promoter sequence-specific DNA binding
+GO:0001003	RNA polymerase III type 2 promoter sequence-specific DNA binding
+GO:0001002	RNA polymerase III type 1 promoter sequence-specific DNA binding
+GO:0001228	DNA-binding transcription activator activity, RNA polymerase II-specific
+GO:0001227	DNA-binding transcription repressor activity, RNA polymerase II-specific
+GO:0001165	RNA polymerase I cis-regulatory region sequence-specific DNA binding
+GO:0001164	RNA polymerase I core promoter sequence-specific DNA binding
+GO:0034584	piRNA binding
+GO:0051870	methotrexate binding
+GO:0032138	single base insertion or deletion binding
+GO:0032139	dinucleotide insertion or deletion binding
+GO:1990472	piRNA dual-strand cluster binding
+GO:0062241	double strand break-nuclear membrane anchor activity
+GO:0043035	chromatin insulator sequence binding
+GO:0032181	dinucleotide repeat insertion binding
+GO:0061821	telomeric D-loop binding
+GO:0001067	transcription regulatory region nucleic acid binding
+GO:0000976	transcription cis-regulatory region binding
+GO:0042809	nuclear vitamin D receptor binding
+GO:0016922	nuclear receptor binding
+GO:0071820	N-box binding
+GO:0032140	single adenine insertion binding
+GO:0032141	single cytosine insertion binding
+GO:0032142	single guanine insertion binding
+GO:0032143	single thymine insertion binding
+GO:0097162	MADS box domain binding
+GO:0001162	RNA polymerase II intronic transcription regulatory region sequence-specific DNA binding
+GO:0140416	transcription regulator inhibitor activity
+GO:0036002	pre-mRNA binding
+GO:0070974	POU domain binding
+GO:0070888	E-box binding
+GO:0001010	RNA polymerase II sequence-specific DNA-binding transcription factor recruiting activity
+GO:0044377	RNA polymerase II cis-regulatory region sequence-specific DNA binding, bending
+GO:0008657	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) inhibitor activity
+GO:0035501	MH1 domain binding
+GO:0140728	GC-box binding
+GO:0097726	LEM domain binding
+GO:0043398	HLH domain binding
+GO:0071837	HMG box domain binding
+GO:0001223	transcription coactivator binding
+GO:0001222	transcription corepressor binding
+GO:0001221	transcription coregulator binding
+GO:0141097	ligand-activated transcription activator activity
+GO:0141096	ligand-activated transcription repressor activity
+GO:0098531	ligand-activated transcription factor activity
+GO:0034246	mitochondrial transcription factor activity
+GO:1990471	piRNA uni-strand cluster binding
+GO:0072586	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) regulator activity
+GO:0072587	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activator activity
+GO:0110035	rDNA spacer replication fork barrier binding, bending
+GO:0003713	transcription coactivator activity
+GO:0003712	transcription coregulator activity
+GO:0003714	transcription corepressor activity
+GO:0004879	nuclear receptor activity
+GO:0030374	nuclear receptor coactivator activity
+GO:0140536	nuclear receptor corepressor activity
+GO:0000995	RNA polymerase III general transcription initiation factor activity
+GO:0016987	sigma factor activity
+GO:0016251	RNA polymerase II general transcription initiation factor activity
+GO:0001139	RNA polymerase II complex recruiting activity
+

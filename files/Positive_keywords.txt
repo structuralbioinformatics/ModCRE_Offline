@@ -1,0 +1,7 @@
+repressor
+activator
+promoter
+enhancer
+transcription factor
+pioneer
+pioner

@@ -1,0 +1,19 @@
+MEME version 4.4
+
+ALPHABET= ACGT
+
+strands: + -
+
+Background letter frequencies (from uniform background):
+ A 0.25000 C 0.25000 G 0.25000 T 0.25000
+
+MOTIF 4e7l_1B 4e7l_1B
+
+letter-probability matrix: alength= 4 w= 6 nsites= 20 E= 0
+  0.187000	  0.413000	  0.200000	  0.200000
+  0.014000	  0.652000	  0.227000	  0.107000
+  0.054000	  0.851000	  0.094000	  0.001000
+  0.041000	  0.758000	  0.200000	  0.001000
+  0.120000	  0.745000	  0.134000	  0.001000
+  0.147000	  0.506000	  0.280000	  0.067000
+

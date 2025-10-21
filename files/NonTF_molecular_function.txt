@@ -1,0 +1,68 @@
+GO:0003684	damaged DNA binding
+GO:0044547	DNA topoisomerase binding
+GO:0003697	single-stranded DNA binding
+GO:0070182	DNA polymerase binding
+GO:0003688	DNA replication origin binding
+GO:0019237	centromeric DNA binding
+GO:0030983	mismatched DNA binding
+GO:0042162	telomeric DNA binding
+GO:0071667	DNA/RNA hybrid binding
+GO:0003681	bent DNA binding
+GO:0032131	alkylated DNA binding
+GO:0031492	nucleosomal DNA binding
+GO:0031490	chromatin DNA binding
+GO:0062037	D-loop DNA binding
+GO:0032357	oxidized purine DNA binding
+GO:0032358	oxidized pyrimidine DNA binding
+GO:0032356	oxidized DNA binding
+GO:0044729	hemi-methylated DNA-binding
+GO:0003696	satellite DNA binding
+GO:0097100	supercoiled DNA binding
+GO:0045142	triplex DNA binding
+GO:0045027	DNA end binding
+GO:0070336	flap-structured DNA binding
+GO:0032132	O6-alkylguanine-DNA binding
+GO:0051880	G-quadruplex DNA binding
+GO:0000405	bubble DNA binding
+GO:0000404	heteroduplex DNA loop binding
+GO:0000403	Y-form DNA binding
+GO:0000217	DNA secondary structure binding
+GO:0032135	DNA insertion or deletion binding
+GO:0043047	single-stranded telomeric DNA binding
+GO:0071443	tDNA binding
+GO:0000182	rDNA binding
+GO:0061730	C-rich strand telomeric DNA binding
+GO:0098505	G-rich strand telomeric DNA binding
+GO:0098847	sequence-specific single stranded DNA binding
+GO:1990165	single-strand break-containing DNA binding
+GO:0044378	non-sequence-specific DNA binding, bending
+GO:0031491	nucleosome binding
+GO:0035939	microsatellite binding
+GO:0003682	chromatin binding
+GO:0003729	mRNA binding
+GO:0001069	regulatory region RNA binding
+GO:0140083	ATP-dependent protein-DNA unloader activity
+GO:0035485	adenine/guanine mispair binding
+GO:0035484	adenine/adenine mispair binding
+GO:0035489	guanine/guanine mispair binding
+GO:0035488	cytosine/thymine mispair binding
+GO:0035487	thymine/thymine mispair binding
+GO:0035486	cytosine/cytosine mispair binding
+GO:1990470	piRNA cluster binding
+GO:0032137	guanine/thymine mispair binding
+GO:0032136	adenine/cytosine mispair binding
+GO:0034584	piRNA binding
+GO:0051870	methotrexate binding
+GO:0032138	single base insertion or deletion binding
+GO:0032139	dinucleotide insertion or deletion binding
+GO:1990472	piRNA dual-strand cluster binding
+GO:0032181	dinucleotide repeat insertion binding
+GO:0032140	single adenine insertion binding
+GO:0032141	single cytosine insertion binding
+GO:0032142	single guanine insertion binding
+GO:0032143	single thymine insertion binding
+GO:1990471	piRNA uni-strand cluster binding
+GO:0072586	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) regulator activity
+GO:0072587	DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activator activity
+GO:0110035	rDNA spacer replication fork barrier binding, bending
+
